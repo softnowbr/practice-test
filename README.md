@@ -21,7 +21,8 @@
 <br>
 
 ### Passo 2
-- ### Enviar o teste para um repostório público no github e disponibilizar o link
+- Enviar o teste para um repostório público no github
+- Disponibilizar o link do repositório
 
 <br>
 
