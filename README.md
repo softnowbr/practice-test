@@ -6,7 +6,8 @@
 - **RF01:** As postagens devem ter um **título**, **descrição**, **autor** e **data da postagem**
 - **RF02:** Criar uma tela para listagem de postagens
 - **RF03:** Criar uma tela/modal para cadastro de postagens
-- **RF04:** Excluir uma postagem
+- **RF04:** Cadastrar uma postagem
+- **RF05:** Excluir uma postagem
 
 <br>
 
